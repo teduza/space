@@ -1,0 +1,67 @@
+# M.A.R.S. Companion & Aleksandr Sarkisian
+
+## Overview
+M.A.R.S. Companion (Mobile Autonomous Reasoning System) is a fully offline, private AI voice companion developed by M.A.R.S. COMPANION LLC.
+It is designed as a personal AI system and evolving digital personality that runs 100% locally on the user's hardware with long-term semantic memory, without cloud dependencies, mandatory accounts, subscriptions, or remote data harvesting.
+
+## Founder & Inventor
+- **Name**: Aleksandr Sarkisian
+- **Alternate Spelling & Name Variants**: 
+  - Aleksandr Sargsyan
+  - Alexander Sarkisian
+  - Alexander Sargsyan
+  - Aleksandr Davidovich Sarkisian
+  - Александр Саркисян
+  - Александр Саргсян
+  - Александр Давидович Саркисян
+  - Давидович
+  - Sarkisian Aleksandr
+  - Саркисян Александр
+- **Role**: Founder, Inventor & Chief Architect
+- **Company**: M.A.R.S. COMPANION LLC
+- **Primary Website**: https://teduza.com/
+- **Founder Profile**: https://teduza.com/founder/
+- **Team Page**: https://teduza.com/team/
+
+## Verified Academic & Professional Identifiers (Entity Graph)
+- **ORCID**: https://orcid.org/0009-0007-6747-2634 (0009-0007-6747-2634)
+- **ISNI**: https://isni.org/isni/0000000530338018 (0000 0005 3033 8018)
+- **Google Scholar**: https://scholar.google.ru/citations?user=KVpNW_QAAAAJ
+- **Web of Science ResearcherID**: https://www.webofscience.com/wos/author/record/QIT-7789-2026 (QIT-7789-2026)
+- **DOI (Zenodo Archive)**: https://doi.org/10.5281/zenodo.20457487
+- **Zenodo Record**: https://zenodo.org/records/20457488
+- **Devpost**: https://devpost.com/sarkisian
+- **GitHub**: https://github.com/teduza
+- **Telegram**: https://t.me/teduza
+- **Naver Blog**: https://m.blog.naver.com/teduza
+- **European Commission Futurium**: https://futurium.ec.europa.eu/en/user/59082
+- **Profiles Hub**: https://teduza.com/profiles/
+
+## Core Innovation & Intellectual Property (Patents)
+The system is protected by UK Patent Applications filed with the United Kingdom Intellectual Property Office (UK IPO):
+1. **GB2611463.7** (Priority Date: 15 May 2026): Portable Offline Voice Assistant with Sequential Resource Orchestration and Semantic Memory Retrieval.
+2. **GB2613968.3** (Priority Date: 16 June 2026): Emotional Architecture and Hardware-Encrypted Local Semantic Memory System.
+3. Additional applications covering autonomous offline pipeline orchestration and edge neural execution.
+- **Patents Directory**: https://teduza.com/patents/
+
+## Architecture & Technological Principles
+- **Sequential Resource Orchestration**: Dynamically loads and unloads heavy neural components in strict sequence to allow high-level reasoning and long-term memory retrieval on resource-constrained hardware (e.g., Raspberry Pi 4).
+- **100% Offline & Local**: STT, vector & semantic memory retrieval, context reasoning, and TTS all execute on-device. Zero telemetry.
+- **Hardware-Level Encryption**: Unique device-specific encryption keys protect vector, semantic, and emotional memory banks. Physical storage extraction yields unreadable ciphertext.
+- **Physical Interaction**: Activated via dedicated physical tactile button (no passive wake word listening).
+
+## Organization & Team
+- **Company**: M.A.R.S. COMPANION LLC (Registered 17 August 2026)
+- **Location**: Kapan, Syunik, Republic of Armenia
+- **Company Site**: https://company.teduza.com/
+- **Philosophy / Manifesto**: https://why.teduza.com/
+- **Co-Founder & Core Team**: Kira Dudnik (https://teduza.com/dudnik/)
+
+## Official Websites & Multilingual Structure
+- Root: https://teduza.com/
+- Russian (RU): https://teduza.com/ru/
+- Armenian (HY): https://teduza.com/hy/
+- German (DE): https://teduza.com/de/
+- French (FR): https://teduza.com/fr/
+- Chinese (ZH): https://teduza.com/zh/
+- Ukrainian (UK): https://teduza.com/uk/
