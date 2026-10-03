@@ -1,4 +1,6 @@
+# Robots.txt for https://aleksandrsarkisian.space/
 User-agent: *
 Allow: /
 
+# Canonical Sitemaps
 Sitemap: https://aleksandrsarkisian.space/sitemap.xml
