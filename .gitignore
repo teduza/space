@@ -11,3 +11,4 @@ vite.config.ts
 src/
 *.log
 .DS_Store
+tmp/
