@@ -243,9 +243,21 @@
       background-color: #fafaf9;
       color: #111827;
       -webkit-font-smoothing: antialiased;
-      overflow-x: hidden;
       width: 100%;
       max-width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    .site-header {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background-color: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(231, 229, 228, 0.9);
+      width: 100%;
     }
     .card-panel {
       background: #ffffff;
@@ -303,7 +315,7 @@
 <body class="selection:bg-neutral-900 selection:text-white font-sans text-[15px] leading-relaxed">
 
   <!-- MASTHEAD & NAVIGATION -->
-  <header class="border-b border-stone-200/80 bg-white/95 backdrop-blur-md sticky top-0 z-40 px-4 sm:px-8 py-3">
+  <header class="site-header sticky top-0 z-50 px-4 sm:px-8 py-3">
     <div class="max-w-3xl mx-auto flex items-center justify-between gap-3">
       <div class="flex items-center gap-2.5 min-w-0">
         <img src="/favicon-96x96.png" alt="Emblem" class="w-6 h-6 rounded-md shadow-xs border border-neutral-300 shrink-0">

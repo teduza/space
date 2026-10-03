@@ -35,7 +35,19 @@
     html, body {
       background-color: #fafaf9;
       color: #111827;
-      overflow-x: hidden;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    .site-header {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(231, 229, 228, 0.9);
       width: 100%;
     }
     .link-item {
@@ -47,25 +59,23 @@
 <body class="selection:bg-neutral-900 selection:text-white font-sans text-[15px] leading-relaxed p-4 sm:p-8">
 
   <div class="max-w-3xl mx-auto space-y-8">
-    <header class="border-b border-neutral-200 pb-4 flex items-center justify-between gap-4 flex-wrap">
-      <div class="flex items-center gap-3">
-        <img src="/favicon-96x96.png" alt="Emblem" class="w-8 h-8 rounded-lg shadow-xs border border-neutral-300 shrink-0">
-        <div>
-          <h1 class="text-2xl font-bold tracking-tight text-neutral-950 font-mono">
-            DIRECT LINKS DIRECTORY
-          </h1>
-          <p class="text-xs text-neutral-500 font-mono mt-0.5">
-            Aleksandr Sarkisian &bull; Canonical Master Index for Crawlers, Indexers & Robots
-          </p>
+    <header class="site-header sticky top-0 z-50 px-4 sm:px-8 py-3 mb-6">
+      <div class="max-w-3xl mx-auto flex items-center justify-between gap-3">
+        <div class="flex items-center gap-2.5 min-w-0">
+          <img src="/favicon-96x96.png" alt="Emblem" class="w-6 h-6 rounded-md shadow-xs border border-neutral-300 shrink-0">
+          <a href="/" class="text-[15px] sm:text-base font-semibold text-neutral-900 tracking-tight whitespace-nowrap hover:text-neutral-600 transition-colors">
+            Aleksandr Sarkisian
+          </a>
         </div>
-      </div>
-      <div class="flex items-center gap-2">
-        <a href="/" class="px-3 py-1 text-xs font-mono rounded bg-neutral-900 text-white hover:bg-neutral-800 transition-colors">
-          Return to Home (EN)
-        </a>
-        <a href="/ru/" class="px-3 py-1 text-xs font-mono rounded border border-neutral-300 text-neutral-800 hover:bg-neutral-100 transition-colors">
-          На главную (RU)
-        </a>
+        <div class="flex items-center gap-2 sm:gap-3 shrink-0">
+          <span class="px-2.5 py-1 text-xs font-mono bg-neutral-900 text-white rounded font-medium shadow-xs">
+            Links (Active)
+          </span>
+          <div class="inline-flex items-center bg-neutral-100 rounded-lg p-0.5 border border-neutral-200">
+            <a href="/" class="px-2.5 py-1 rounded text-neutral-600 hover:text-neutral-950 font-mono text-xs font-medium transition-colors">EN</a>
+            <a href="/ru/" class="px-2.5 py-1 rounded text-neutral-600 hover:text-neutral-950 font-mono text-xs font-medium transition-colors">RU</a>
+          </div>
+        </div>
       </div>
     </header>
 
