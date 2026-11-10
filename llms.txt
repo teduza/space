@@ -38,10 +38,35 @@ It is designed as a personal AI system and evolving digital personality that run
 - **Profiles Hub**: https://teduza.com/profiles/
 
 ## Core Innovation & Intellectual Property (Patents)
-The system is protected by UK Patent Applications filed with the United Kingdom Intellectual Property Office (UK IPO):
-1. **GB2611463.7** (Priority Date: 15 May 2026): Portable Offline Voice Assistant with Sequential Resource Orchestration and Semantic Memory Retrieval.
-2. **GB2613968.3** (Priority Date: 16 June 2026): Emotional Architecture and Hardware-Encrypted Local Semantic Memory System.
-3. Additional applications covering autonomous offline pipeline orchestration and edge neural execution.
+The system is protected by 26 UK Patent Applications filed with the United Kingdom Intellectual Property Office (UK IPO), all invented by Aleksandr Sarkisian and assigned to M.A.R.S. COMPANION LLC:
+
+1. **GB2611463.7** (Priority Date: 15 May 2026): Self-Rewriting Operating System Architecture for Sovereign Local Execution.
+2. **GB2613965.9** (Priority Date: 16 June 2026): Deterministic Value Alignment and Sovereign Telemetry Guard for Autonomous Edge Agents.
+3. **GB2613968.3** (Priority Date: 17 June 2026): Emotional Co-Processing Unit and Empathy Modeling for Offline Conversational Co-Pilots.
+4. **GB2613969.1** (Priority Date: 17 June 2026): Local Knowledge Indexing, Dynamic Semantic Retrieval and Adaptive Memory Pruning.
+5. **GB2613970.9** (Priority Date: 17 June 2026): Cryptographically Signed Continuous Identity and Offline Context Reconstruction.
+6. **GB2614145.7** (Priority Date: 18 June 2026): Hardware-Assisted Sovereign Execution and Anti-Interference Isolation for Edge Hardware.
+7. **GB2624388.1** (Priority Date: 15 October 2026): A Deterministic Lifetime-Graph-Driven Method and Apparatus for Dynamic Volatile Memory Defragmentation, Tensor Relocation and Arena Compaction in Resource-Constrained Microcontroller Units During Autonomous Offline Neural Network Inference.
+8. **GB2624406.1** (Priority Date: 15 October 2026): A Hardware-Bound Hierarchical Key-Derivation and Streaming Decryption Architecture for Localized Cryptographic Protection of Neural Network Weights Against Physical Tampering, Probing and Extraction in Autonomous Edge Intelligence Devices.
+9. **GB2624409.5** (Priority Date: 15 October 2026): A Decentralized Peer-to-Peer Ad-Hoc Communication and Time-Slotted Coordination Protocol for Autonomous Multi-Agent Synchronization and Collective Resource Orchestration in Environments Devoid of Internet and Satellite Positioning Services.
+10. **GB2624414.5** (Priority Date: 15 October 2026): A Page-Aligned Hierarchical Quantized Offline Vector Database Indexing Mechanism for Flash-Memory-Constrained Edge Artificial Intelligence Systems with Wear-Aware Log-Structured Updating.
+11. **GB2624415.2** (Priority Date: 15 October 2026): A Serverless Opportunistic Federated Training and Staleness-Weighted Low-Rank Parameter Optimization Method for Self-Contained Autonomous Intelligence Models Operating in Isolated Environments.
+12. **GB2624416.0** (Priority Date: 15 October 2026): An Offline Artificial Intelligence System for Dynamic Container Terminal Logistics, Rolling-Horizon Yard Planning and Sequential Autonomous Resource Orchestration in Seaport Environments Without Cloud Dependency.
+13. **GB2626659.3** (Priority Date: 10 November 2026): A Localized Multi-Sensor Computer Vision and Spatial Telemetry Fusion Framework for Autonomous Navigation and Cargo Handling Vehicles Operating in Isolated, Satellite-Denied Industrial Zones.
+14. **GB2626660.1** (Priority Date: 10 November 2026): A Decentralized Edge Intelligence Architecture for Real-Time Multi-Spectral Security Perimeter Surveillance, Cross-Modal Event Verification and Threat Isolation on Standalone Hardware Nodes.
+15. **GB2626661.9** (Priority Date: 10 November 2026): An Algorithmic Method for Predictive Mechanical Fault Isolation, Modal Parameter Tracking and Structural Integrity Telemetry Processing in Heavy Industrial Seaport Infrastructure Using Standalone Edge Analytics.
+16. **GB2626662.7** (Priority Date: 10 November 2026): M.A.R.S. OS: A Capability-Based Real-Time Microkernel Operating System Architecture with Worst-Case-Bounded Scheduling for Deterministic Execution of Containerized Neural Network Models on Edge Devices.
+17. **GB2626663.5** (Priority Date: 10 November 2026): An Intelligent Predictive-Residual Telemetry Filtration, Importance-Weighted Adaptive Sampling and Entropy-Coded Compression Algorithm on Standalone Computing Nodes.
+18. **GB2626665.0** (Priority Date: 10 November 2026): A Localized Event-Driven Tile-Gated Convolutional Neural Network Architecture with Early-Exit Cascades for Asynchronous Object Detection on Offline Low-Power Edge Processing Units.
+19. **GB2626666.8** (Priority Date: 10 November 2026): A Predictive Multi-Channel Telemetry Analysis System with Peer Cross-Validation for Automated Proactive Hardware Fault Isolation and Workload Evacuation in Decentralized Computing Clusters.
+20. **GB2626667.6** (Priority Date: 10 November 2026): A Compressed Conditional Generative Adversarial Network Architecture with On-Device Stability Supervision for Real-Time Synthetic Data Generation and Rare-Event Augmentation on Isolated Computing Nodes.
+21. **GB2626668.4** (Priority Date: 10 November 2026): A Slack-Aware Multi-Criteria Dynamic Priority Resource Scheduling Algorithmic Framework with Layer-Boundary Preemption for Asynchronous Edge Intelligence Workflows.
+22. **GB2626669.2** (Priority Date: 10 November 2026): A Keyed Low-Observability Steganographic Communication Protocol for Concealed Neural Network Parameter Exchange Embedded in Standard Industrial Telemetry Streams with Error-Correcting Redundancy.
+23. **GB2626670.0** (Priority Date: 10 November 2026): An Automated Capability-Vector-Driven Min-Max Latency Partitioning and Diffusive Load-Balancing Method for Heterogeneous Decentralized Neural Network Nodes in Localized Mesh Networks.
+24. **GB2626672.6** (Priority Date: 10 November 2026): An Edge-Contained Mathematical Method for Recursive Sensor-Feedback-Driven Low-Rank Layer Reconfiguration and Stability-Guarded Optimization of Neural Networks in Autonomous Devices.
+25. **GB2626673.4** (Priority Date: 10 November 2026): A Non-Linear Cryptographic Encoding, Randomized Execution and Power-Balancing Obfuscation Protocol for On-Device Machine Learning Model Architecture Protection Against Side-Channel Analysis.
+26. **GB2626674.2** (Priority Date: 10 November 2026): A Journaled Dual-Slot Atomic Checkpointing, Measured-Boot Verification and Secure Cold-Boot State Restoration Protocol for Fail-Safe Operation of Isolated Autonomous Edge Computing Platforms Employing Non-Volatile Memory Arrays.
+
 - **Patents Directory**: https://teduza.com/patents/
 
 ## Architecture & Technological Principles
